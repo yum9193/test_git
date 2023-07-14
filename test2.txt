@@ -1,7 +1,0 @@
-first commit record.
-
-second commit record.
-
-third commit record.
-
-forth commit record.
